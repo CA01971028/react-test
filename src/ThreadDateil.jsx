@@ -84,7 +84,7 @@ const ThreadDetail = () => {
         <div>
             <Header />
             <div className="min-w-max min-h-lvh bg-slate-200 pb-4">
-                <div className="text-2xl md:text-4xl pl-10 w-96">{title}</div>
+                <div className="text-2xl md:text-4xl pl-10 w-96 text-center">{title}</div>
                 <div className='md:flex md:flex-row-reverse'>
                     <div className='md:basis-11/12'>
                         <input
